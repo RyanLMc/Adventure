@@ -1,0 +1,15 @@
+C:\Users\Ryan\source\repos\Adventure\bin\Debug\netcoreapp3.1\Adventure.exe
+C:\Users\Ryan\source\repos\Adventure\bin\Debug\netcoreapp3.1\Adventure.deps.json
+C:\Users\Ryan\source\repos\Adventure\bin\Debug\netcoreapp3.1\Adventure.runtimeconfig.json
+C:\Users\Ryan\source\repos\Adventure\bin\Debug\netcoreapp3.1\Adventure.runtimeconfig.dev.json
+C:\Users\Ryan\source\repos\Adventure\bin\Debug\netcoreapp3.1\Adventure.dll
+C:\Users\Ryan\source\repos\Adventure\bin\Debug\netcoreapp3.1\Adventure.pdb
+C:\Users\Ryan\source\repos\Adventure\obj\Debug\netcoreapp3.1\Adventure.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\Adventure\obj\Debug\netcoreapp3.1\Adventure.form1.resources
+C:\Users\Ryan\source\repos\Adventure\obj\Debug\netcoreapp3.1\Adventure.csproj.GenerateResource.cache
+C:\Users\Ryan\source\repos\Adventure\obj\Debug\netcoreapp3.1\Adventure.AssemblyInfoInputs.cache
+C:\Users\Ryan\source\repos\Adventure\obj\Debug\netcoreapp3.1\Adventure.AssemblyInfo.cs
+C:\Users\Ryan\source\repos\Adventure\obj\Debug\netcoreapp3.1\Adventure.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\Adventure\obj\Debug\netcoreapp3.1\Adventure.dll
+C:\Users\Ryan\source\repos\Adventure\obj\Debug\netcoreapp3.1\Adventure.pdb
+C:\Users\Ryan\source\repos\Adventure\obj\Debug\netcoreapp3.1\Adventure.genruntimeconfig.cache
